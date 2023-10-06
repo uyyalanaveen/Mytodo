@@ -8,6 +8,8 @@ const Todolist = () => {
         setTodos(newTodos)
         console.log(...todos)
     }
+
+    
     return (
         <div>
             <h1>Whats your plan?</h1>
